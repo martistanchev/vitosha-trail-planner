@@ -1,0 +1,1 @@
+# vitosha-trail-planner
