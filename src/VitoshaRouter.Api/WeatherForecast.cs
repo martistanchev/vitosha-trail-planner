@@ -1,4 +1,4 @@
-namespace VitoshaRouter.Api;
+﻿namespace VitoshaRouter.Api;
 
 public class WeatherForecast
 {
