@@ -1,0 +1,11 @@
+@VitoshaRouter.Api_HostAddress = http://localhost:5118
+
+GET {{VitoshaRouter.Api_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{VitoshaRouter.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

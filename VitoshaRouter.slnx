@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VitoshaRouter.Api/VitoshaRouter.Api.csproj" />
+    <Project Path="src/VitoshaRouter.Application/VitoshaRouter.Application.csproj" />
+    <Project Path="src/VitoshaRouter.Domain/VitoshaRouter.Domain.csproj" />
+    <Project Path="src/VitoshaRouter.Infrastructure/VitoshaRouter.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/VitoshaRouter.Tests/VitoshaRouter.Tests.csproj" />
+  </Folder>
+</Solution>
